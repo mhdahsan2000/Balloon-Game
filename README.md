@@ -1,4 +1,4 @@
-# Balloon-Game-
+# Balloon-Game
 A simple balloon game in python created using turtle. 
 
 INSTRUCTIONS ----
