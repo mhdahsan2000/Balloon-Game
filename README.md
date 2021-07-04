@@ -1,4 +1,4 @@
-# Balloon-Shooting-Game-
+# Balloon-Game-
 A simple balloon shooting game in python creating using turtle. 
 
 INSTRUCTIONS ----
