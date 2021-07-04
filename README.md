@@ -3,4 +3,4 @@ A simple balloon shooting game in python
 
 INSTRUCTIONS ----
 
-Press space button to Shoot
+Press space button to activate .
